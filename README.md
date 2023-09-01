@@ -1,5 +1,5 @@
 ![MasterHead](https://media.licdn.com/dms/image/D5616AQHrUd72kaUrhg/profile-displaybackgroundimage-shrink_350_1400/0/1691605140179?e=1698883200&v=beta&t=XkQVdOTttFlTNsM3zJYPEDEEvLKpdkVmzDVUHOZFJJs) 
-<h1 align="center">Hi 👋, I'm G Ajay</h1>
+<h1 align="center">Hi 👋, I'm Ajay Gujjar </h1>
 <h3 align="center">A passionate Software Testing </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ajaygujjar424@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I am Funny😁  **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
