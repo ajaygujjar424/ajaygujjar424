@@ -1,4 +1,4 @@
-![MasterHead]https://media.licdn.com/dms/image/D5616AQHrUd72kaUrhg/profile-displaybackgroundimage-shrink_350_1400/0/1691605141586?e=1707350400&v=beta&t=j3DLahGg9ql12F_Asm2YcXH9DwviLqsFLGtO54c0ODw) 
+![MasterHead](https://media.licdn.com/dms/image/D5616AQHrUd72kaUrhg/profile-displaybackgroundimage-shrink_350_1400/0/1691605141586?e=1707350400&v=beta&t=j3DLahGg9ql12F_Asm2YcXH9DwviLqsFLGtO54c0ODw) 
 <h1 align="center">Hi 👋, I'm Ajay Gujjar </h1>
 <h3 align="center">A passionate Software Tester </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
